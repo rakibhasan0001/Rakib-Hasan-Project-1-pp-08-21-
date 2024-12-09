@@ -1,0 +1,84 @@
+hp wired mouse 32p
+300
+450
+asus wired mouse 121c
+433
+600
+A4-tech wireless mouse 12c
+700
+1200
+Lenovo wireless mouse 
+1200
+300
+Walton wired mouse
+300
+120
+usb 2.0 cable
+500
+120
+usb 3.0 cable
+700
+300
+Walton flash memory
+200
+700
+Walton 256gb micro sd
+300
+1700
+hp 500gb SATA III ssd
+200
+4500
+asus M.2 256gb ssd
+350
+4500
+western digital 128gb ssd
+500
+3000
+hp external camera 12mp
+900
+1600
+asus external camera 24mp
+300
+2400
+Lenovo external camera wireless 12mp
+200
+3000
+hp 8gb ddr3 ram
+400
+1600
+hp 8gb ddr4 ram
+300
+2200
+hp 16gb ddr4 ram
+250
+3200
+crucial 8gb 3200mhz ddr4 ram
+400
+3500
+crucial 16gb 3200mhz ddr4 ram
+400
+4500
+crucial sata III ssd 250gb
+150
+2500
+hp monitor 2k 24 inch
+50
+24000
+asus monitor 2k 24 inch
+30
+30000
+dell monitor 2k 24 inch 
+40
+31000
+Samsung 40inch curve monitor
+44
+50000
+hoco sd card reader 123cp
+443
+320
+hp mechanical keyboard 60% layout
+430
+3300
+dareu mechanical keyboard 60% layout
+43
+3500
